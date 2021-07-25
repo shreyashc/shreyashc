@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, django, nodejs/express, android**
 
-- 🌱 I’m currently learning Flutter, ML
+- 🌱 I’m currently learning   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> </a> **Flutter**, <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="15" height="15"/> </a>**Spring**, <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15"/> </a>**ML**
 
 - 📫 How to reach me **shreyashc018@gmail.com**
 
