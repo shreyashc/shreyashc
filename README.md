@@ -94,4 +94,23 @@
 
 ### Links 🔗
 
-[shreyashc.me](https://shreyashc.me)
+
+<a href="https://shreyashc.me/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/icons/globe2.svg" alt="website" width="40" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreyas-hc-8bb7651b9/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" width="40" height="40"/>
+</a>
+
+<a href="https://instagram.com/shreyashcx" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="instagram" width="40" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/shreyashc018/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="facebook" width="40" height="40"/>
+</a>
+
+<a href="https://twitter.com/shreyashc18" target="_blank"> 
+<img src="😜" alt="bird app" width="40" height="40"/>
+</a>
