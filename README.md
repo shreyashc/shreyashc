@@ -3,7 +3,7 @@
 <p align="center">I'm currently studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 </p>
 
----
+# 
 
 - 💬 Ask me about **react, django, nodejs/express, android**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyashc018@gmail.com**
 
----
+# 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -90,7 +90,7 @@
 </a>
 </p>
 
----
+# 
 
 ### Links 🔗
 
