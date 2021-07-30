@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shreyas H C</h1>
+<img src="header.gif" alt="header" width="100%" style="border-radius:12px"/> 
 
-<p align="center">I'm currently studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
+<p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Shreyas H C, studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 </p>
 
 # 
