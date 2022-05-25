@@ -1,10 +1,9 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Shreyas H C </h1>
 <p align="center">
 studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 </p>
 
-# 
+#
 
 - 💬 Ask me about **react, django, nodejs/express, android**
 
@@ -12,7 +11,7 @@ studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 
 - 📫 How to reach me **shreyashc018@gmail.com**
 
-# 
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,7 +38,7 @@ studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 
 <p align="left"> 
 <a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
 </a>
 
 <a href="https://expressjs.com" target="_blank"> 
@@ -75,7 +74,7 @@ studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 </a>
 
 <a href="https://nextjs.org/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
 </a>
 
 <a href="https://angular.io" target="_blank"> 
@@ -91,14 +90,9 @@ studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 </a>
 </p>
 
-# 
+#
 
 ### Links 🔗
-
-
-<a href="https://shreyashc.me/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/icons/globe2.svg" alt="website" width="40" height="40"/>
-</a>
 
 <a href="https://www.linkedin.com/in/shreyas-hc-8bb7651b9/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" width="40" height="40"/>
@@ -106,12 +100,4 @@ studying B.E. Computer Science <a href="https://mcehassan.ac.in">@MCE</a>
 
 <a href="https://instagram.com/shreyashcx" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="instagram" width="40" height="40"/>
-</a>
-
-<a href="https://www.facebook.com/shreyashc018/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="facebook" width="40" height="40"/>
-</a>
-
-<a href="https://twitter.com/shreyashc18" target="_blank"> 
-<img src="😜" alt="bird app" width="40" height="40"/>
 </a>
